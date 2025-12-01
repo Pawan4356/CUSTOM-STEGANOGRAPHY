@@ -1,4 +1,5 @@
-# CUSTOM-STEGANOGRAPHY
+# CUSTOM-BASIC-STEGANOGRAPHY
+###### *Disclaimer - Just a random thought Implented without any second..*
 ### **Text -> Binary -> Random Pixel Values (GrayScale) -> pgm -> png**
 
 ### Text
