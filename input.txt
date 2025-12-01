@@ -1,0 +1,8 @@
+Steganography is the practice of hiding information inside another message or object so that an unsuspecting observer does not notice anything unusual. In digital contexts, this can involve concealing a file, image, message, or video within another digital medium. Unlike cryptography, which hides the content of a message, steganography hides the existence of the message itself.
+The term comes from the Greek words for “covered” and “writing.” It first appeared in 1499 in Johannes Trithemius’s Steganographia, a work on concealed communication.
+Historical Uses:
+Early examples date back to ancient Greece, where messages were hidden under regrown hair or written beneath the wax of tablets. Through history, people have also used methods such as invisible ink, microdots, or embedding messages in music or textiles.
+Social Steganography:
+In environments with censorship or surveillance, people may hide meanings within pop culture references, phrasing, or images that only certain audiences understand.
+Digital Steganography:
+Modern techniques hide data within digital files—commonly images, audio, or text documents. This may involve subtly altering pixel values, modifying sound properties, or embedding data in unused parts of a file. Because media files are large, small changes are hard to detect.
